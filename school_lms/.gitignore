@@ -1,0 +1,41 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+media/
+
+# Static files
+staticfiles/
+static/
+
+# Coverage reports
+.coverage
+coverage.xml
+*.cover
+
+# IDE files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Other files
+.DS_Store
+*.pyo
+*.pyd
+*.db
+
+# Environment variables
+.env
